@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Akarshak51/Akarshak51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Akarshak51 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+I’m passionate about [your specialties/interests]. I love working on projects that involve [technologies/languages].  
+Check out my pinned repositories for some of my best work!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+- 🌱 Currently learning: [new tech or skill]
+- 🤝 Looking to collaborate on: [type of project]
+- ⚡ Fun fact: [something unique about you!]
+
+## 📈 GitHub Stats
+![Akarshak51's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akarshak51&show_icons=true)
+
+## 🌐 Connect with me
+- [Portfolio](your-portfolio-link)
+- [LinkedIn](your-linkedin-link)
+- [Twitter](your-twitter-link)
+
+<!-- Add badges or images for extra flair -->
