@@ -2,14 +2,12 @@
 
 # 🚀 Hi, I'm **Akarashak Mishra** 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=AI+%26+Automation+Enthusiast+🤖;Full+Stack+Developer+💻;Open+Source+Contributor+🌟;Building+Solutions+That+Matter+✨;Creating+The+Future+With+Code+⚡" alt="Typing SVG" />
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Akarshak51&style=for-the-badge&color=blueviolet)](https://github.com/Akarshak51)
 [![GitHub Followers](https://img.shields.io/github/followers/Akarshak51?label=Followers&style=for-the-badge&color=blue)](https://github.com/Akarshak51?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/Akarshak51?label=Stars&style=for-the-badge&color=yellow)](https://github.com/Akarshak51?tab=repositories)
-[![Years Badge](https://badges.pufler.dev/years/Akarshak51?style=for-the-badge&color=blue)](https://github.com/Akarshak51)
-[![Repos Badge](https://badges.pufler.dev/repos/Akarshak51?style=for-the-badge&color=red)](https://github.com/Akarshak51)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/Akarshak51?style=for-the-badge&color=green)](https://github.com/Akarshak51)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20To%20My%20Digital%20Universe&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=gradient" width="100%"/>
 
