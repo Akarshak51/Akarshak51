@@ -17,7 +17,7 @@
 
 ## 🌌 About Me
 
-```python
+
 class Akarashak:
     def __init__(self):
         self.name = "Akarashak Mishra"
@@ -44,13 +44,13 @@ class Akarashak:
 # Initialize
 developer = Akarashak()
 print(f"Current Mission: {developer.life_philosophy()}")
-```
+
 
 <div align="center">
 
 ### 🎯 Quick Facts
 
-```ascii
+
 ╔══════════════════════════════════════════════════════════════╗
 ║  💼 Role: AI Engineer & Full Stack Developer                 ║
 ║  🎓 Education: B.Tech in Computer Science                    ║
@@ -59,11 +59,10 @@ print(f"Current Mission: {developer.life_philosophy()}")
 ║  🏆 Projects: 50+ Repositories | 20+ Open Source Contributions║
 ║  ⚡ Fun Fact: I debug with console.log and I'm proud of it! ║
 ╚══════════════════════════════════════════════════════════════╝
-```
+
 
 </div>
 
----
 
 ## 🎯 Current Stats & Activities
 
@@ -109,7 +108,7 @@ print(f"Current Mission: {developer.life_philosophy()}")
 
 ### 🚀 Skills Radar
 
-```ascii
+
         System Design
              ⭐⭐⭐⭐⭐
                  |
@@ -119,7 +118,7 @@ AI/ML ⭐⭐⭐⭐⭐---------⭐⭐⭐⭐⭐ Full Stack
                  |
              ⭐⭐⭐⭐⭐
           Cloud & DevOps
-```
+
 
 </div>
 
@@ -322,7 +321,7 @@ AI/ML ⭐⭐⭐⭐⭐---------⭐⭐⭐⭐⭐ Full Stack
 
 ### 📊 Skill Proficiency
 
-```ascii
+
 ╔═══════════════════════════════════════════════════════════════╗
 ║  Python        ████████████████████░ 95%  🐍                  ║
 ║  JavaScript    ██████████████████░░ 90%  🟨                   ║
@@ -335,7 +334,7 @@ AI/ML ⭐⭐⭐⭐⭐---------⭐⭐⭐⭐⭐ Full Stack
 ║  Three.js      ███████████████░░░░░ 80%  🎨                   ║
 ║  System Design █████████████████░░░ 87%  🏗️                   ║
 ╚═══════════════════════════════════════════════════════════════╝
-```
+
 
 </div>
 
@@ -360,7 +359,7 @@ AI/ML ⭐⭐⭐⭐⭐---------⭐⭐⭐⭐⭐ Full Stack
 <summary><b>💡 Project Highlights & Features</b></summary>
 
 ### 🎯 problem-finder-app
-```javascript
+
 const features = {
   ui: "Interactive 3D environment with Three.js",
   ai: "Intelligent problem-solving navigation",
@@ -368,10 +367,10 @@ const features = {
   community: "Open-source with active contributors",
   impact: "Helping users find solutions through immersive UX"
 };
-```
+
 
 ### 🧠 EEG-Fatigue-Detection
-```python
+
 features = {
     "realtime": "Live fatigue monitoring & alerts",
     "websocket": "Real-time data streaming",
@@ -379,10 +378,10 @@ features = {
     "ml": "Advanced prediction models",
     "impact": "Workplace safety & health monitoring"
 }
-```
+
 
 ### 🤖 personal-ai-agent
-```python
+
 features = {
     "workflow": "Custom AI agent workflows",
     "integration": "LangChain & OpenAI powered",
@@ -390,17 +389,17 @@ features = {
     "architecture": "Extensible & modular design",
     "impact": "Democratizing AI automation"
 }
-```
+
 
 ### 👁️ YOLO-Object-Detection
-```python
+
 features = {
     "cv": "Real-time object detection",
     "accessibility": "Voice-enabled for visually impaired",
     "performance": "Optimized YOLO implementation",
     "impact": "Making computer vision accessible"
 }
-```
+
 
 </details>
 
@@ -408,7 +407,7 @@ features = {
 
 ### 🎨 Project Categories
 
-```ascii
+
     📱 Web Apps        🤖 AI/ML Projects    🎮 Interactive
         ↓                    ↓                  ↓
     ┌─────────┐       ┌──────────┐       ┌──────────┐
@@ -420,7 +419,7 @@ features = {
          └──────────────────┴──────────────────┘
                             ↓
                    🚀 Full Stack Projects
-```
+
 
 </div>
 
@@ -430,7 +429,7 @@ features = {
 
 <div align="center">
 
-```mermaid
+
 graph TB
     A[🧠 Learning Journey 2025] --> B[Advanced AI/ML]
     A --> C[Cloud Architecture]
@@ -458,7 +457,7 @@ graph TB
     style C fill:#F8D866,stroke:#A177F7,stroke-width:2px
     style D fill:#61DAFB,stroke:#F85D7F,stroke-width:2px
     style E fill:#FF6F00,stroke:#F8D866,stroke-width:2px
-```
+
 
 </div>
 
@@ -466,7 +465,7 @@ graph TB
 
 ### 📖 Currently Reading & Learning
 
-```ascii
+
 ╔════════════════════════════════════════════════════════════╗
 ║  📚 Books & Resources                                      ║
 ╠════════════════════════════════════════════════════════════╣
@@ -476,7 +475,7 @@ graph TB
 ║  🔹 Microservices Patterns by Chris Richardson            ║
 ║  🔹 WebGPU Best Practices & Graphics Programming          ║
 ╚════════════════════════════════════════════════════════════╝
-```
+
 
 ### 🎓 Courses & Certifications
 
@@ -486,7 +485,7 @@ graph TB
 
 </div>
 
----
+
 
 ## 🏆 Achievements, Contributions & Recognition
 
@@ -504,7 +503,7 @@ graph TB
 
 <div align="center">
 
-```ascii
+
 ┌────────────────────── 🏆 Milestones ──────────────────────┐
 │                                                            │
 │  ✅ 50+ Public Repositories                               │
@@ -514,11 +513,11 @@ graph TB
 │  ✅ 5+ Featured Projects with 10+ Stars Each              │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
-```
+
 
 ### 🌟 Key Highlights
 
-```python
+
 achievements = {
     "💻 Code": {
         "total_commits": "500+",
@@ -539,7 +538,7 @@ achievements = {
         "collaborators": "15+"
     }
 }
-```
+
 
 </div>
 
@@ -591,7 +590,7 @@ Other        55 mins         █░░░░░░░░░░░░░░░░
 
 ### 📅 Weekly Development Breakdown
 
-```ascii
+
 Monday     ████████████░░░░░░░░  12 commits
 Tuesday    ███████████████░░░░░  15 commits
 Wednesday  ██████████░░░░░░░░░░  10 commits
@@ -599,7 +598,7 @@ Thursday   ████████████████░░░░  16 comm
 Friday     ███████████████████░  19 commits
 Saturday   ████████░░░░░░░░░░░░   8 commits
 Sunday     ██████░░░░░░░░░░░░░░   6 commits
-```
+
 
 </div>
 
@@ -613,7 +612,7 @@ Sunday     ██████░░░░░░░░░░░░░░   6 comm
 
 ### 🎧 Coding Soundtrack
 
-```ascii
+
 ♪ ♫ ┌──────────────────────────────────┐ ♪ ♫
 ♪ ♪ │  Currently Playing:              │ ♪ ♪
     │  🎵 Lo-Fi Beats for Coding       │
@@ -621,7 +620,7 @@ Sunday     ██████░░░░░░░░░░░░░░   6 comm
     │  🎵 Ambient Electronic            │
     └──────────────────────────────────┘
     ▶━━━━━━━━━━━━━━●────── 2:34 / 3:45
-```
+
 
 </div>
 
@@ -644,7 +643,7 @@ Sunday     ██████░░░░░░░░░░░░░░   6 comm
 
 ### 📬 Let's Collaborate!
 
-```ascii
+
 ╔══════════════════════════════════════════════════════════╗
 ║  💼 Open for:                                            ║
 ║  ✅ Freelance Projects                                   ║
@@ -653,7 +652,7 @@ Sunday     ██████░░░░░░░░░░░░░░   6 comm
 ║  ✅ Technical Consulting                                 ║
 ║  ✅ Mentorship & Knowledge Sharing                       ║
 ╚══════════════════════════════════════════════════════════╝
-```
+
 
 ### 💡 Got an Idea? Let's Build It Together!
 
@@ -673,7 +672,7 @@ Sunday     ██████░░░░░░░░░░░░░░   6 comm
 
 ### 📜 My Favorite Quotes
 
-```ascii
+
 ┌────────────────────────────────────────────────────────┐
 │  "The best way to predict the future is to invent it." │
 │                                        - Alan Kay       │
@@ -682,7 +681,7 @@ Sunday     ██████░░░░░░░░░░░░░░   6 comm
 │   it's bad."                                          │
 │                                        - Cory House    │
 └────────────────────────────────────────────────────────┘
-```
+
 
 </div>
 
@@ -694,7 +693,7 @@ Sunday     ██████░░░░░░░░░░░░░░   6 comm
 
 ### 🎯 Current Status
 
-```javascript
+
 const myLife = {
   code: "Always",
   eat: "Sometimes",
@@ -704,11 +703,11 @@ const myLife = {
 
 console.log(`Life.status: ${JSON.stringify(myLife)}`);
 // Output: Life.status: {"code":"Always","eat":"Sometimes","sleep":"Maybe","repeat":"Definitely"}
-```
+
 
 ### ☕ Coffee Counter
 
-```ascii
+
   ☕ Coffees consumed this week: ████████████████░░░░  42/50
   
   ( (
@@ -717,11 +716,11 @@ console.log(`Life.status: ${JSON.stringify(myLife)}`);
   |      |] "Fueled by coffee and curiosity"
   \      /  
    `----'
-```
+
 
 ### 🎲 Fun Facts About Me
 
-```python
+
 fun_facts = [
     "🌙 I code better at night (peak productivity: 11 PM - 3 AM)",
     "🎮 Gamer by night, coder by choice",
@@ -735,7 +734,7 @@ fun_facts = [
 
 for fact in fun_facts:
     print(fact)
-```
+
 
 </div>
 
@@ -745,7 +744,7 @@ for fact in fun_facts:
 
 <div align="center">
 
-```ascii
+
 ╔═══════════════════════ 🎯 2025 GOALS ══════════════════════╗
 ║                                                             ║
 ║  📚 Learn                                                   ║
@@ -765,7 +764,7 @@ for fact in fun_facts:
 ║     [██████░░░░░░░░░░░░░░░░░░░]  30%  Documentation        ║
 ║                                                             ║
 ╚═════════════════════════════════════════════════════════════╝
-```
+
 
 ### 🎯 Monthly Goals
 
@@ -808,12 +807,12 @@ If you like my projects and want to support my work, consider:
 [![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yourhandle)
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-Support-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Akarshak51)
 
-```ascii
+
 ╔═══════════════════════════════════════════════════════╗
 ║  Every star ⭐ and contribution makes a difference!   ║
 ║  Thank you for your support! 🙏                       ║
 ╚═══════════════════════════════════════════════════════╝
-```
+
 
 </div>
 
@@ -837,14 +836,14 @@ If you like my projects and want to support my work, consider:
 
 ### 🎯 Let's Connect & Collaborate
 
-```ascii
+
   ____                  _   _                 
  / ___|___  _ __  _ __ | \ | | _____      __ 
 | |   / _ \| '_ \| '_ \|  \| |/ _ \ \ /\ / / 
 | |__| (_) | | | | | | | |\  | (_) \ V  V /  
  \____\___/|_| |_|_| |_|_| \_|\___/ \_/\_/   
                                               
-```
+
 
 <table>
   <tr>
@@ -906,7 +905,7 @@ If you like my projects and want to support my work, consider:
 📝 Coming Soon! Stay tuned for technical articles, tutorials, and insights...
 <!-- BLOG-POST-LIST:END -->
 
-```ascii
+
 ┌─────────────────────────────────────────┐
 │  📖 Upcoming Blog Topics:               │
 │  • Building Scalable AI Applications    │
@@ -915,7 +914,7 @@ If you like my projects and want to support my work, consider:
 │  • Microservices Architecture Guide     │
 │  • Machine Learning in Production       │
 └─────────────────────────────────────────┘
-```
+
 
 </div>
 
@@ -982,7 +981,7 @@ If you like my projects and want to support my work, consider:
 
 <div align="center">
 
-```ascii
+
 ╔══════════════════════════════════════════════════════════╗
 ║  "Akarshak is an exceptional developer with a passion    ║
 ║   for AI and creating innovative solutions."             ║
@@ -996,7 +995,7 @@ If you like my projects and want to support my work, consider:
 ║   the developer community."                              ║
 ║                                        - GitHub Community ║
 ╚══════════════════════════════════════════════════════════╝
-```
+
 
 </div>
 
@@ -1025,7 +1024,7 @@ If you like my projects and want to support my work, consider:
 
 <div align="center">
 
-```ascii
+
       🌏 Connecting Developers Worldwide 🌎
       
   Asia    Europe   Americas   Africa   Oceania
@@ -1034,7 +1033,7 @@ If you like my projects and want to support my work, consider:
   ═══════════════════════════════════════
          Building the Future Together
   ═══════════════════════════════════════
-```
+
 
 **Collaboration Timezone:** UTC+5:30 (IST)  
 **Available for:** Remote Opportunities Worldwide
@@ -1064,7 +1063,7 @@ If you like my projects and want to support my work, consider:
 
 <div align="center">
 
-```ascii
+
 ╔════════════════════════════════════════════╗
 ║  📆 Current Availability: OPEN             ║
 ╠════════════════════════════════════════════╣
@@ -1073,7 +1072,7 @@ If you like my projects and want to support my work, consider:
 ║  Response Time: Within 24 hours            ║
 ║  Time Zone: IST (UTC+5:30)                 ║
 ╚════════════════════════════════════════════╝
-```
+
 
 </div>
 
@@ -1083,7 +1082,7 @@ If you like my projects and want to support my work, consider:
 
 <div align="center">
 
-```markdown
+
 A huge thank you to:
 - 🌟 All my GitHub followers and supporters
 - 🤝 Open source contributors and collaborators
@@ -1092,7 +1091,7 @@ A huge thank you to:
 - 📚 Mentors and peers who inspire me daily
 
 You all make this journey worthwhile! 🙏
-```
+
 
 </div>
 
@@ -1115,7 +1114,7 @@ Feel free to use, modify, and distribute with attribution.
 
 <div align="center">
 
-```python
+
 class FinalMessage:
     def __init__(self):
         self.message = "Thank you for visiting my profile!"
@@ -1133,7 +1132,7 @@ class FinalMessage:
 
 message = FinalMessage()
 print(message.call_to_action())
-```
+
 
 ---
 
